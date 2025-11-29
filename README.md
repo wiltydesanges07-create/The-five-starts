@@ -16,3 +16,6 @@ BRICE Laurie.
 **Final App Ideas.**                                                                                                                                                                                                                                                            
 BONJOU KREYÒL: an app that will allow everyone, regardless of their level,                                                                                                                                                                                                     
 to speak creole easily, thanks to quality spelling lessons that will enable users to master the language.
+
+**User stories.**                                                                                                                                                                                                                                                               
+**Must have**
