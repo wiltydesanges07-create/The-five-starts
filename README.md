@@ -8,7 +8,7 @@ JEAN Woodkelly.
 CHARLES Samuel Martinez.                                                                                                           
 BRICE Laurie.
 
-**App Ideas.**
+**App Ideas.**                                                                                                                                                                                                                                                                  
 -An app that will allow everyone to learn creole easily.
 -An app that will make creole available on the internet.
 -An app that will encourage users to love creole.
