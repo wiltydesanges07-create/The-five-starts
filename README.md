@@ -19,3 +19,5 @@ to speak creole easily, thanks to quality spelling lessons that will enable user
 
 **User stories.**                                                                                                                                                                                                                                                               
 **Must have**
+-The user must follow at least one lesson per day.                                                                                                                             
+-The user must do at least three exercices per day. 
