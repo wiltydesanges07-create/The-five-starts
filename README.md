@@ -19,16 +19,18 @@ to speak creole easily, thanks to quality spelling lessons that will enable user
 
 
 **User stories.**                                                                                                                                                                                                                                                               
-**Must have.**
+Must have.
 
    -The user must follow at least one lesson per day.               
    -Each day, the user should set a goal and achieve it.                       
    -The user must take level assessment evaluation every week.
 
+  Maybe.
 
-  **Maybe.**
+   -The user would be encouraged to reflect on least one proverb each day.
+   -They should also participate in a daily conversation to renforce their practice and fluency.
 
-  **It would be good if**
+  It would be good if.
 
    -Users could connnect their entries to communicate with each other.
   
