@@ -33,4 +33,5 @@ Must have.
   It would be good if.
 
    -Users could connnect their entries to communicate with each other.
+![2025-12-01-13-32-21-ezgif com-speed](https://github.com/user-attachments/assets/1f14391d-b62b-4f12-8708-508b9ecd84bf)
   
